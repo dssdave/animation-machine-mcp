@@ -7,6 +7,7 @@ Your AI writes an HTML animation; Animation Machine renders it to MP4 or GIF wit
 
 <p align="center">
 <a href="https://animation-machine.com/mcp-server">Website</a> ·
+<a href="https://animation-machine.com/docs/mcp">Full docs</a> ·
 <a href="#setup">Setup</a> ·
 <a href="#tools">Tools</a> ·
 <a href="#example-prompts">Example prompts</a> ·
@@ -21,6 +22,8 @@ Your AI writes an HTML animation; Animation Machine renders it to MP4 or GIF wit
 **Pricing:** included in the [$5/month Animation Machine plan](https://animation-machine.com/pricing)
 
 This repository holds documentation, examples and the MCP Registry manifest. The server itself is hosted by Animation Machine.
+
+**Full reference** (every tool and parameter, OAuth endpoints, limits, errors): [animation-machine.com/docs/mcp](https://animation-machine.com/docs/mcp) · as Markdown for agents: [docs/mcp.md](https://animation-machine.com/docs/mcp.md) · server card: [/.well-known/mcp/server-card.json](https://animation-machine.com/.well-known/mcp/server-card.json)
 
 ## What it does
 
