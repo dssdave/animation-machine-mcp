@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.animation-machine/animation-machine",
+  "title": "Animation Machine",
+  "description": "Render AI-written HTML animations to MP4/GIF with music, voiceover and captions.",
+  "websiteUrl": "https://animation-machine.com/mcp-server",
+  "repository": {
+    "url": "https://github.com/dssdave/animation-machine-mcp",
+    "source": "github"
+  },
+  "icons": [
+    { "src": "https://animation-machine.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "version": "1.6.25",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://animation-machine.com/mcp"
+    }
+  ]
+}
